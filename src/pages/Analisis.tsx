@@ -49,7 +49,7 @@ export default function Analisis() {
             <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative border-t border-white/50 flex flex-col">
               <div className="flex-1 w-full relative">
                 <iframe
-                  src="https://drive.google.com/file/d/1FGe6gI5vLWVrd6Z3edvzEdyNnlfPNwCx/view?usp=sharing"
+                  src="https://drive.google.com/file/d/1FGe6gI5vLWVrd6Z3edvzEdyNnlfPNwCx/preview"
                   className="w-full h-full border-0 absolute inset-0"
                   title="Dokumen PDF RPP"
                 />
@@ -85,7 +85,7 @@ export default function Analisis() {
             <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative border-t border-white/50 flex flex-col">
               <div className="flex-1 w-full relative">
                 <iframe
-                  src="https://drive.google.com/file/d/1RMsPSgXBCvXEp1Pwj6sduXY6GOrefmCw/view?usp=sharing"
+                  src="https://drive.google.com/file/d/1RMsPSgXBCvXEp1Pwj6sduXY6GOrefmCw/preview"
                   className="w-full h-full border-0 absolute inset-0"
                   title="Dokumen PDF Materi"
                 />
@@ -121,7 +121,7 @@ export default function Analisis() {
             <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative border-t border-white/50 flex flex-col">
               <div className="flex-1 w-full relative">
                 <iframe
-                  src="https://drive.google.com/file/d/1gacF8MAx5F3jBghwOvlCf2cuw7ibl8nf/view?usp=sharing"
+                  src="https://drive.google.com/file/d/1gacF8MAx5F3jBghwOvlCf2cuw7ibl8nf/preview"
                   className="w-full h-full border-0 absolute inset-0"
                   title="Dokumen PDF LKPD"
                 />
@@ -158,7 +158,7 @@ export default function Analisis() {
             <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative border-t border-white/50 flex flex-col">
               <div className="flex-1 w-full relative">
                 <iframe
-                  src="https://drive.google.com/file/d/19RQlBRyvdAMHnVGAxeUCY-rA4dizCh0m/view?usp=sharing"
+                  src="https://drive.google.com/file/d/19RQlBRyvdAMHnVGAxeUCY-rA4dizCh0m/preview"
                   className="w-full h-full border-0 absolute inset-0"
                   title="Dokumen PDF Refleksi 1"
                 />
@@ -194,7 +194,7 @@ export default function Analisis() {
             <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative border-t border-white/50 flex flex-col">
               <div className="flex-1 w-full relative">
                 <iframe
-                  src="https://drive.google.com/file/d/1GG6cfWcuEaqE8EVkU5j3gBhAJs4I2TzS/view?usp=sharing"
+                  src="https://drive.google.com/file/d/1GG6cfWcuEaqE8EVkU5j3gBhAJs4I2TzS/preview"
                   className="w-full h-full border-0 absolute inset-0"
                   title="Dokumen PDF Refleksi 2"
                 />
@@ -230,7 +230,7 @@ export default function Analisis() {
             <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative border-t border-white/50 flex flex-col">
               <div className="flex-1 w-full relative">
                 <iframe
-                  src="https://drive.google.com/file/d/1_TCYH6ur2tYGX7xIf039e4aYnCNmlWmD/view?usp=sharing"
+                  src="https://drive.google.com/file/d/1_TCYH6ur2tYGX7xIf039e4aYnCNmlWmD/preview"
                   className="w-full h-full border-0 absolute inset-0"
                   title="Dokumen PDF Refleksi 3"
                 />
