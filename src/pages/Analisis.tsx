@@ -56,7 +56,7 @@ export default function Analisis() {
               </div>
               <div className="w-full bg-[#f8fafc]/80 py-2 px-4 flex justify-end items-center border-t border-white/50 shrink-0 z-10">
                 <a
-                  href="Public\doc\MODUL AJAR Project IoT.pdf"
+                  href="https://drive.google.com/file/d/1N18kA4il9BLjrDndE5X9OT7-UEWL7X7H/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-xs font-bold text-[#4361EE] hover:text-[#3a56d4] bg-indigo-50 hover:bg-indigo-100 px-3 py-1.5 rounded-full transition-colors"
