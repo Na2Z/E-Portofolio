@@ -85,14 +85,14 @@ export default function Analisis() {
             <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative border-t border-white/50 flex flex-col">
               <div className="flex-1 w-full relative">
                 <iframe
-                  src="Public\doc\DIAGRAM BLOK &.pdf"
+                  src="https://drive.google.com/file/d/1XVJKXdP8Fr0lj_19fL3WXUaUxzYGzk4O/view?usp=sharing"
                   className="w-full h-full border-0 absolute inset-0"
                   title="Dokumen PDF Materi"
                 />
               </div>
               <div className="w-full bg-[#f8fafc]/80 py-2 px-4 flex justify-end items-center border-t border-white/50 shrink-0 z-10">
                 <a
-                  href="Public\doc\DIAGRAM BLOK &.pdf"
+                  href="https://drive.google.com/file/d/1XVJKXdP8Fr0lj_19fL3WXUaUxzYGzk4O/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-xs font-bold text-[#4361EE] hover:text-[#3a56d4] bg-indigo-50 hover:bg-indigo-100 px-3 py-1.5 rounded-full transition-colors"
