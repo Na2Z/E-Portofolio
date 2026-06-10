@@ -41,7 +41,7 @@ export default function Profil() {
         <div className="md:col-span-4">
           <BentoCard className="h-full flex flex-col items-center justify-center bg-gradient-to-br from-[#4361EE] to-[#4CC9F0] text-white p-0 overflow-hidden group">
             <img
-              src="/src/img/Shahnaz Grad-22 (2).JPG.jpeg"
+              src="Public\img\Shahnaz Grad-22 (2).JPG.jpeg"
               alt="Profile"
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               referrerPolicy="no-referrer"

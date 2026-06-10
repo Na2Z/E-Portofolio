@@ -49,14 +49,14 @@ export default function Analisis() {
             <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative border-t border-white/50 flex flex-col">
               <div className="flex-1 w-full relative">
                 <iframe
-                  src="src\doc\MODUL AJAR Project IoT.pdf"
+                  src="Public\doc\MODUL AJAR Project IoT.pdf"
                   className="w-full h-full border-0 absolute inset-0"
                   title="Dokumen PDF RPP"
                 />
               </div>
               <div className="w-full bg-[#f8fafc]/80 py-2 px-4 flex justify-end items-center border-t border-white/50 shrink-0 z-10">
                 <a
-                  href="src\doc\MODUL AJAR Project IoT.pdf"
+                  href="Public\doc\MODUL AJAR Project IoT.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-xs font-bold text-[#4361EE] hover:text-[#3a56d4] bg-indigo-50 hover:bg-indigo-100 px-3 py-1.5 rounded-full transition-colors"
@@ -85,14 +85,14 @@ export default function Analisis() {
             <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative border-t border-white/50 flex flex-col">
               <div className="flex-1 w-full relative">
                 <iframe
-                  src="src\doc\DIAGRAM BLOK &.pdf"
+                  src="Public\doc\DIAGRAM BLOK &.pdf"
                   className="w-full h-full border-0 absolute inset-0"
                   title="Dokumen PDF Materi"
                 />
               </div>
               <div className="w-full bg-[#f8fafc]/80 py-2 px-4 flex justify-end items-center border-t border-white/50 shrink-0 z-10">
                 <a
-                  href="src\doc\DIAGRAM BLOK &.pdf"
+                  href="Public\doc\DIAGRAM BLOK &.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-xs font-bold text-[#4361EE] hover:text-[#3a56d4] bg-indigo-50 hover:bg-indigo-100 px-3 py-1.5 rounded-full transition-colors"
@@ -121,14 +121,14 @@ export default function Analisis() {
             <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative border-t border-white/50 flex flex-col">
               <div className="flex-1 w-full relative">
                 <iframe
-                  src="src\doc\LKPD KK1 Proyek IoT Terpadu (1).pdf"
+                  src="Public\doc\LKPD KK1 Proyek IoT Terpadu (1).pdf"
                   className="w-full h-full border-0 absolute inset-0"
                   title="Dokumen PDF LKPD"
                 />
               </div>
               <div className="w-full bg-[#f8fafc]/80 py-2 px-4 flex justify-end items-center border-t border-white/50 shrink-0 z-10">
                 <a
-                  href="src\doc\LKPD KK1 Proyek IoT Terpadu (1).pdf"
+                  href="Public\doc\LKPD KK1 Proyek IoT Terpadu (1).pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-xs font-bold text-[#4361EE] hover:text-[#3a56d4] bg-indigo-50 hover:bg-indigo-100 px-3 py-1.5 rounded-full transition-colors"
@@ -158,14 +158,14 @@ export default function Analisis() {
             <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative border-t border-white/50 flex flex-col">
               <div className="flex-1 w-full relative">
                 <iframe
-                  src="src\doc\LK.4.PPLT S1 - SHAHNAZ FERDIANSYAH.pdf"
+                  src="Public\doc\LK.4.PPLT S1 - SHAHNAZ FERDIANSYAH.pdf"
                   className="w-full h-full border-0 absolute inset-0"
                   title="Dokumen PDF Refleksi 1"
                 />
               </div>
               <div className="w-full bg-[#f8fafc]/80 py-2 px-4 flex justify-end items-center border-t border-white/50 shrink-0 z-10">
                 <a
-                  href="src\doc\LK.4.PPLT S1 - SHAHNAZ FERDIANSYAH.pdf"
+                  href="Public\doc\LK.4.PPLT S1 - SHAHNAZ FERDIANSYAH.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-xs font-bold text-[#4361EE] hover:text-[#3a56d4] bg-indigo-50 hover:bg-indigo-100 px-3 py-1.5 rounded-full transition-colors"
@@ -194,14 +194,14 @@ export default function Analisis() {
             <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative border-t border-white/50 flex flex-col">
               <div className="flex-1 w-full relative">
                 <iframe
-                  src="src\doc\LK.4.PPLT S2 - SHAHNAZ FERDIANSYAH.pdf"
+                  src="Public\doc\LK.4.PPLT S2 - SHAHNAZ FERDIANSYAH.pdf"
                   className="w-full h-full border-0 absolute inset-0"
                   title="Dokumen PDF Refleksi 2"
                 />
               </div>
               <div className="w-full bg-[#f8fafc]/80 py-2 px-4 flex justify-end items-center border-t border-white/50 shrink-0 z-10">
                 <a
-                  href="src\doc\LK.4.PPLT S2 - SHAHNAZ FERDIANSYAH.pdf"
+                  href="Public\doc\LK.4.PPLT S2 - SHAHNAZ FERDIANSYAH.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-xs font-bold text-[#4361EE] hover:text-[#3a56d4] bg-indigo-50 hover:bg-indigo-100 px-3 py-1.5 rounded-full transition-colors"
@@ -230,14 +230,14 @@ export default function Analisis() {
             <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative border-t border-white/50 flex flex-col">
               <div className="flex-1 w-full relative">
                 <iframe
-                  src="src\doc\LK.4.PPLT S3 - SHAHNAZ FERDIANSYAH.pdf"
+                  src="Public\doc\LK.4.PPLT S3 - SHAHNAZ FERDIANSYAH.pdf"
                   className="w-full h-full border-0 absolute inset-0"
                   title="Dokumen PDF Refleksi 3"
                 />
               </div>
               <div className="w-full bg-[#f8fafc]/80 py-2 px-4 flex justify-end items-center border-t border-white/50 shrink-0 z-10">
                 <a
-                  href="src\doc\LK.4.PPLT S3 - SHAHNAZ FERDIANSYAH.pdf"
+                  href="Public\doc\LK.4.PPLT S3 - SHAHNAZ FERDIANSYAH.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-xs font-bold text-[#4361EE] hover:text-[#3a56d4] bg-indigo-50 hover:bg-indigo-100 px-3 py-1.5 rounded-full transition-colors"

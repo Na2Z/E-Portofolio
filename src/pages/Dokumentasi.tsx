@@ -23,7 +23,7 @@ export default function Dokumentasi() {
         <BentoCard className="p-4" delay={0.1}>
           <div className="w-full aspect-video md:aspect-square bg-slate-200 rounded-xl overflow-hidden mb-4 group relative">
             <img
-              src="src\img\WhatsApp Image 2026-04-16 at 11.01.41 AM.jpeg"
+              src="Public\img\WhatsApp Image 2026-04-16 at 11.01.41 AM.jpeg"
               alt="Mengajar di Kelas"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               referrerPolicy="no-referrer"
@@ -45,7 +45,7 @@ export default function Dokumentasi() {
         <BentoCard className="p-4" delay={0.2}>
           <div className="w-full aspect-video md:aspect-square bg-slate-200 rounded-xl overflow-hidden mb-4 group relative">
             <img
-              src="src\img\WhatsApp Image 2026-06-10 at 8.42.02 AM.jpeg"
+              src="Public\img\WhatsApp Image 2026-06-10 at 8.42.02 AM.jpeg"
               alt="Perencanaan"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               referrerPolicy="no-referrer"
@@ -67,7 +67,7 @@ export default function Dokumentasi() {
         <BentoCard className="p-4" delay={0.3}>
           <div className="w-full aspect-video md:aspect-square bg-slate-200 rounded-xl overflow-hidden mb-4 group relative">
             <video
-              src="src\video\IMG_0507.mp4"
+              src="Public\video\IMG_0507.mp4"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
               autoPlay
               muted
@@ -93,7 +93,7 @@ export default function Dokumentasi() {
         <BentoCard className="p-4" delay={0.4}>
           <div className="w-full aspect-video md:aspect-square bg-slate-200 rounded-xl overflow-hidden mb-4 group relative">
             <img
-              src="src\img\WhatsApp Image 2026-06-04 at 9.24.00 PM.jpeg"
+              src="Public\img\WhatsApp Image 2026-06-04 at 9.24.00 PM.jpeg"
               alt="Mengajar di Kelas"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               referrerPolicy="no-referrer"
@@ -113,7 +113,7 @@ export default function Dokumentasi() {
         <BentoCard className="p-4" delay={0.5}>
           <div className="w-full aspect-video md:aspect-square bg-slate-200 rounded-xl overflow-hidden mb-4 group relative">
             <video
-              src="src\video\WhatsApp Video 2026-06-10 at 8.42.01 AM.mp4"
+              src="Public\video\WhatsApp Video 2026-06-10 at 8.42.01 AM.mp4"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
               autoPlay
               muted
@@ -134,7 +134,7 @@ export default function Dokumentasi() {
         <BentoCard className="p-4" delay={0.6}>
           <div className="w-full aspect-video md:aspect-square bg-slate-200 rounded-xl overflow-hidden mb-4 group relative">
             <img
-              src="src\img\WhatsApp Image 2026-06-10 at 8.42.01 AM.jpeg"
+              src="Public\img\WhatsApp Image 2026-06-10 at 8.42.01 AM.jpeg"
               alt="Dokumentasi Bersama"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               referrerPolicy="no-referrer"
