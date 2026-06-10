@@ -23,7 +23,7 @@ export default function Dokumentasi() {
         <BentoCard className="p-4" delay={0.1}>
           <div className="w-full aspect-video md:aspect-square bg-slate-200 rounded-xl overflow-hidden mb-4 group relative">
             <img
-              src="Public\img\WhatsApp Image 2026-04-16 at 11.01.41 AM.jpeg"
+              src="https://res.cloudinary.com/dbc8npin5/image/upload/WhatsApp_Image_2026-04-16_at_11.01.41_AM_ng3p4j"
               alt="Mengajar di Kelas"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               referrerPolicy="no-referrer"
@@ -45,7 +45,7 @@ export default function Dokumentasi() {
         <BentoCard className="p-4" delay={0.2}>
           <div className="w-full aspect-video md:aspect-square bg-slate-200 rounded-xl overflow-hidden mb-4 group relative">
             <img
-              src="Public\img\WhatsApp Image 2026-06-10 at 8.42.02 AM.jpeg"
+              src="https://res.cloudinary.com/dbc8npin5/image/upload/WhatsApp_Image_2026-06-10_at_8.42.02_AM_fw54wt"
               alt="Perencanaan"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               referrerPolicy="no-referrer"
@@ -93,7 +93,7 @@ export default function Dokumentasi() {
         <BentoCard className="p-4" delay={0.4}>
           <div className="w-full aspect-video md:aspect-square bg-slate-200 rounded-xl overflow-hidden mb-4 group relative">
             <img
-              src="Public\img\WhatsApp Image 2026-06-04 at 9.24.00 PM.jpeg"
+              src="https://res.cloudinary.com/dbc8npin5/image/upload/WhatsApp_Image_2026-06-04_at_9.24.00_PM_nvkozr"
               alt="Mengajar di Kelas"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               referrerPolicy="no-referrer"
@@ -134,7 +134,7 @@ export default function Dokumentasi() {
         <BentoCard className="p-4" delay={0.6}>
           <div className="w-full aspect-video md:aspect-square bg-slate-200 rounded-xl overflow-hidden mb-4 group relative">
             <img
-              src="Public\img\WhatsApp Image 2026-06-10 at 8.42.01 AM.jpeg"
+              src="https://res.cloudinary.com/dbc8npin5/image/upload/WhatsApp_Image_2026-06-10_at_8.42.01_AM_du2vrz"
               alt="Dokumentasi Bersama"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               referrerPolicy="no-referrer"
