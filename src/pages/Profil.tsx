@@ -28,7 +28,7 @@ export default function Profil() {
               </p>
               <div className="mt-8">
                 <a
-                  href="/instrumen-penilaian"
+                  href="src\pages\Penilaian.tsx"
                   className="inline-block bg-[#4361EE] hover:bg-[#3a56d4] text-white px-8 py-3 rounded-full font-bold shadow-[0_5px_15px_rgba(67,97,238,0.3)] hover:scale-105 transition-all"
                 >
                   Lihat Analisis Reflektif
