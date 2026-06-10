@@ -49,7 +49,7 @@ export default function Analisis() {
             <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative border-t border-white/50 flex flex-col">
               <div className="flex-1 w-full relative">
                 <iframe
-                  src="Public\doc\MODUL AJAR Project IoT.pdf"
+                  src="https://drive.google.com/file/d/1N18kA4il9BLjrDndE5X9OT7-UEWL7X7H/view?usp=sharing"
                   className="w-full h-full border-0 absolute inset-0"
                   title="Dokumen PDF RPP"
                 />
