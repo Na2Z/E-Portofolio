@@ -41,7 +41,7 @@ export default function Profil() {
         <div className="md:col-span-4">
           <BentoCard className="h-full flex flex-col items-center justify-center bg-gradient-to-br from-[#4361EE] to-[#4CC9F0] text-white p-0 overflow-hidden group">
             <img
-              src="https://res-console.cloudinary.com/dbc8npin5/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/U2hhaG5hel9HcmFkLTIzXzMuSlBHX3d4ZzNsZg==/template_primary"
+              src="https://res.cloudinary.com/dbc8npin5/image/upload/Shahnaz_Grad-22_2.JPG_l15jo9"
               alt="Profile"
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               referrerPolicy="no-referrer"
