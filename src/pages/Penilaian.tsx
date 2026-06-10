@@ -32,7 +32,7 @@ export default function Penilaian() {
         <BentoCard className="p-0 overflow-hidden flex flex-col h-[600px] border-none shadow-[0_15px_35px_rgba(0,0,0,0.1)]">
           <div className="bg-gradient-to-r from-[#FFD60A] to-[#ffaa00] p-6 text-[#2b2d42] flex justify-between items-center shrink-0">
             <div>
-              <h3 className="font-bold text-lg">Penyusunan Perangkat (L7)</h3>
+              <h3 className="font-bold text-lg">Lampiran 7</h3>
               <p className="text-xs text-yellow-900/70 mt-1 font-bold">
                 Dokumen Lampiran 7
               </p>
@@ -65,9 +65,7 @@ export default function Penilaian() {
         <BentoCard className="p-0 overflow-hidden flex flex-col h-[600px] border-none shadow-[0_15px_35px_rgba(0,0,0,0.1)]">
           <div className="bg-gradient-to-r from-[#4361EE] to-[#4CC9F0] p-6 text-white flex justify-between items-center shrink-0">
             <div>
-              <h3 className="font-bold text-lg">
-                Praktik Mengajar Lapangan (L8)
-              </h3>
+              <h3 className="font-bold text-lg">Lampiran 8</h3>
               <p className="text-xs text-blue-100 mt-1 font-bold">
                 Dokumen Lampiran 8
               </p>
