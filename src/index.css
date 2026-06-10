@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-sans:
+    "Quicksand", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+body {
+  background: linear-gradient(120deg, #e0f7fa 0%, #fff9c4 100%);
+  color: #2b2d42;
+  min-height: 100vh;
+}
