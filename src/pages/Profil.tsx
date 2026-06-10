@@ -26,14 +26,14 @@ export default function Profil() {
                 penguasaan pedagogi yang kuat serta integrasi teknologi masa
                 kini.
               </p>
-              <div className="mt-8">
+              {/* <div className="mt-8">
                 <a
                   href="src\pages\Penilaian.tsx"
                   className="inline-block bg-[#4361EE] hover:bg-[#3a56d4] text-white px-8 py-3 rounded-full font-bold shadow-[0_5px_15px_rgba(67,97,238,0.3)] hover:scale-105 transition-all"
                 >
                   Lihat Analisis Reflektif
                 </a>
-              </div>
+              </div> */}
             </div>
           </BentoCard>
         </div>
@@ -41,7 +41,7 @@ export default function Profil() {
         <div className="md:col-span-4">
           <BentoCard className="h-full flex flex-col items-center justify-center bg-gradient-to-br from-[#4361EE] to-[#4CC9F0] text-white p-0 overflow-hidden group">
             <img
-              src="https://res-console.cloudinary.com/dbc8npin5/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/U2hhaG5hel9HcmFkLTIzXzMuSlBHX3d4ZzNsZg==/template_primary"
+              src="https://drive.google.com/file/d/11xQShTqSTF2j9hQqHJHuLu6zqIDAEiWa/view?usp=sharing"
               alt="Profile"
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               referrerPolicy="no-referrer"
