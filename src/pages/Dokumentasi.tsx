@@ -67,7 +67,7 @@ export default function Dokumentasi() {
         <BentoCard className="p-4" delay={0.3}>
           <div className="w-full aspect-video md:aspect-square bg-slate-200 rounded-xl overflow-hidden mb-4 group relative">
             <video
-              src="Public\video\IMG_0507.mp4"
+              src="https://res.cloudinary.com/dbc8npin5/video/upload/v1781101048/IMG_0507_fykumx.mp4"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
               autoPlay
               muted
@@ -113,7 +113,7 @@ export default function Dokumentasi() {
         <BentoCard className="p-4" delay={0.5}>
           <div className="w-full aspect-video md:aspect-square bg-slate-200 rounded-xl overflow-hidden mb-4 group relative">
             <video
-              src="Public\video\WhatsApp Video 2026-06-10 at 8.42.01 AM.mp4"
+              src="https://res.cloudinary.com/dbc8npin5/video/upload/v1781101039/WhatsApp_Video_2026-06-10_at_8.42.01_AM_ncnfxr.mp4"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
               autoPlay
               muted
