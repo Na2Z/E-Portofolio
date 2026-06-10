@@ -41,14 +41,14 @@ export default function Penilaian() {
           <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative flex flex-col">
             <div className="flex-1 w-full relative">
               <iframe
-                src="Public\doc\Lampiran 7 PPL.pdf"
+                src="https://drive.google.com/file/d/1VBN5h-F5m3daIlk31IA5AtU5SfobBFZZ/preview"
                 className="w-full h-full border-0 absolute inset-0"
                 title="Dokumen PDF Lampiran 7"
               />
             </div>
             <div className="w-full bg-[#f8fafc]/80 py-2 px-4 flex justify-end items-center border-t border-white/50 shrink-0 z-10">
               <a
-                href="Public\doc\Lampiran 7 PPL.pdf"
+                href="https://drive.google.com/file/d/1VBN5h-F5m3daIlk31IA5AtU5SfobBFZZ/preview"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-xs font-bold text-[#4361EE] hover:text-[#3a56d4] bg-indigo-50 hover:bg-indigo-100 px-3 py-1.5 rounded-full transition-colors"
@@ -76,14 +76,14 @@ export default function Penilaian() {
           <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative flex flex-col">
             <div className="flex-1 w-full relative">
               <iframe
-                src="Public\doc\Lampiran 8 PPL.pdf"
+                src="https://drive.google.com/file/d/1leqFqlEvGzgqYhymnZXqlJ1x8Ognz8GS/preview"
                 className="w-full h-full border-0 absolute inset-0"
                 title="Dokumen PDF Lampiran 8"
               />
             </div>
             <div className="w-full bg-[#f8fafc]/80 py-2 px-4 flex justify-end items-center border-t border-white/50 shrink-0 z-10">
               <a
-                href="Public\doc\Lampiran 8 PPL.pdf"
+                href="https://drive.google.com/file/d/1leqFqlEvGzgqYhymnZXqlJ1x8Ognz8GS/preview"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-xs font-bold text-[#4361EE] hover:text-[#3a56d4] bg-indigo-50 hover:bg-indigo-100 px-3 py-1.5 rounded-full transition-colors"
@@ -112,14 +112,14 @@ export default function Penilaian() {
           <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative flex flex-col">
             <div className="flex-1 w-full relative">
               <iframe
-                src="Public\doc\Analisis_Modul_Ajar_Project_IoT.pdf"
+                src="https://drive.google.com/file/d/1gLOLgwbAlAqCBnTkM1yANiEE9INQZBCK/preview"
                 className="w-full h-full border-0 absolute inset-0"
                 title="Analisis mendalam"
               />
             </div>
             <div className="w-full bg-[#f8fafc]/80 py-2 px-4 flex justify-end items-center border-t border-white/50 shrink-0 z-10">
               <a
-                href="Public\doc\Analisis_Modul_Ajar_Project_IoT.pdf"
+                href="https://drive.google.com/file/d/1gLOLgwbAlAqCBnTkM1yANiEE9INQZBCK/preview"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-xs font-bold text-[#4361EE] hover:text-[#3a56d4] bg-indigo-50 hover:bg-indigo-100 px-3 py-1.5 rounded-full transition-colors"
@@ -147,14 +147,14 @@ export default function Penilaian() {
           <div className="p-0 flex-1 bg-white/50 backdrop-blur-md relative flex flex-col">
             <div className="flex-1 w-full relative">
               <iframe
-                src="Public\doc\Analisis_Artefak_dengan_aspek.pdf"
+                src="https://drive.google.com/file/d/11ol3Fc6xGV_0BiKBqCCbyVsuwkdQRsq_/preview"
                 className="w-full h-full border-0 absolute inset-0"
                 title="Analisis artefak dengan aspek"
               />
             </div>
             <div className="w-full bg-[#f8fafc]/80 py-2 px-4 flex justify-end items-center border-t border-white/50 shrink-0 z-10">
               <a
-                href="Public\doc\Analisis_Artefak_dengan_aspek.pdf"
+                href="https://drive.google.com/file/d/11ol3Fc6xGV_0BiKBqCCbyVsuwkdQRsq_/preview"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-xs font-bold text-[#4361EE] hover:text-[#3a56d4] bg-indigo-50 hover:bg-indigo-100 px-3 py-1.5 rounded-full transition-colors"
